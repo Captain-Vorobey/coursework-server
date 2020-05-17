@@ -1,0 +1,28 @@
+﻿@using Shop.Data.Models
+@model IEnumerable<Phone>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title>
+</head>
+<body>
+    <h2>All  T-shirts</h2>
+    @{ 
+        foreach (var phone in Model)
+        {
+            <div>
+                <h2>Name: @phone.name</h2>
+                <p>Price: @phone.price.ToString("c")</p>
+                <img src="@phone.image" alt="@phone.name"/>
+            </div>
+        } 
+    }
+</body>
+</html>

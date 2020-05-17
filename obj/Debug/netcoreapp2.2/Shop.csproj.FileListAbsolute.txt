@@ -1,0 +1,6 @@
+C:\Users\vorob\source\repos\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.csprojAssemblyReference.cache
+C:\Users\vorob\source\repos\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.csproj.CoreCompileInputs.cache
+C:\Users\vorob\source\repos\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.RazorAssemblyInfo.cache
+C:\Users\vorob\source\repos\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.RazorAssemblyInfo.cs
+C:\Users\vorob\source\repos\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.AssemblyInfoInputs.cache
+C:\Users\vorob\source\repos\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.AssemblyInfo.cs
